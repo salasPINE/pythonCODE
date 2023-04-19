@@ -2,6 +2,7 @@
 PINE Python Code Files
 
 Remove from Git Repo (git remote rm origin)
+To fix sync problem (git push --set-upstream origin main)
 
 # LINKS
 
@@ -15,3 +16,5 @@ Remove from Git Repo (git remote rm origin)
 # Python Tkinter Links
 [Tkinter Documentation](https://docs.python.org/3/library/tk.html)
 
+# Python PyGame
+[PyGame Documentation](https://www.pygame.org/wiki/tutorials)
