@@ -1,8 +1,7 @@
 # Python Mad Lib
 
 # Asking for input and setting the variables
-print('''
-When prompted, type the kind of word that it is asking for and hit the return key''')
+print('When prompted, type the kind of word it is asking for and press the return key')
 
 animal = input('Animal: ')
 liquid = input('Liquid: ')
