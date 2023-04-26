@@ -1,8 +1,8 @@
 import tkinter as tk
 
 window = tk.Tk()
-window.title("Hello wold")
-window.geometry("300x300")
+window.title("Hello World")
+window.geometry("200x100")
 
 hello = tk.Label(text="Hello world!")
 hello.pack()
