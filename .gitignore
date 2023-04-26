@@ -129,6 +129,12 @@ dmypy.json
 .pyre/
 
 # Replit Stuff
+.config/
+.config
+.replit
 replit.nix
 poetry.lock
 pyproject.toml
+
+# Replit Turtle Driver
+driver.py
