@@ -132,6 +132,7 @@ dmypy.json
 .config/
 .config
 .replit
+.breakpoints
 replit.nix
 poetry.lock
 pyproject.toml
