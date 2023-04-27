@@ -139,3 +139,6 @@ pyproject.toml
 
 # Replit Turtle Driver
 driver.py
+
+# Mac OS
+.DS_Store
