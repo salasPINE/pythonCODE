@@ -18,6 +18,7 @@ print()
 print("PYTHON CLASS MADLIB!")
 
 print(f'''
+
 Mr. Salas is the teacher for our class. He is a {animal} but hides it very well.
 
 He likes to drink {liquid} all the time and sometimes snacks on {food} during class!
