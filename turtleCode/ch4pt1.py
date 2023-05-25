@@ -15,5 +15,7 @@ t.left(90)
 t.forward(50)
 t.left(90)
 
-t.reset()
-t.clear()
+# Clears the canvas and puts the turtle back at its starting position
+# t.reset()
+# Clears the canvas and leaves turtle at its last position
+# t.clear()
