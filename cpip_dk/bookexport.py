@@ -1,5 +1,6 @@
-Password Picker (page 52) 
-import random import string 
+Password Picker (page 52)
+import random
+import string
 adjectives = ['sleepy', 'slow', 'smelly', 'wet', 'fat', 'red', 'orange', 'yellow', 'green', 'blue', 'purple', 'fluffy', 
 'white', 'proud', 'brave'] 
 nouns = ['apple', 'dinosaur', 'ball', 'toaster', 'goat', 'dragon', 'hammer', 'duck', 'panda'] 
