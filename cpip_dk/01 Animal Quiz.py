@@ -1,5 +1,4 @@
-# 01
-# Animal Quiz (page 36)
+# 01 Animal Quiz (page 36)
 
 def check_guess(guess, answer):
     global score
