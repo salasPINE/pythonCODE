@@ -6,4 +6,4 @@ import sys; print('Python %s on %s' % (sys.version, sys.platform))
 # import turtleCode.turtleSpiral
 
 message = "Hello Python Crash Course!"
-print(mesage)
+print(message)
