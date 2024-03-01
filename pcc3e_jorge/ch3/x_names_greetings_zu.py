@@ -1,4 +1,4 @@
-# lists.py
+# names_greetings.py
 # Prime Zu
 
 names = ['London', 'Olivia', 'Derek', 'Charlie', 'Kanner', 'Brock']
