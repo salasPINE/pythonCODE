@@ -4,7 +4,7 @@ PINE Python Code Files
 Remove from Git Repo (git remote rm origin)
 To fix sync problem (git push --set-upstream origin main)
 
-# LINKS
+### LINKS
 
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
@@ -12,11 +12,11 @@ To fix sync problem (git push --set-upstream origin main)
 
 [PythonPINE Github](https://github.com/salasPINE/pythonCODE)
 
-# Python Turtle
+### Python Turtle
 [Turtle Documentation](https://docs.python.org/3/library/turtle.html)
 
-# Python Tkinter Links
+### Python Tkinter Links
 [Tkinter Documentation](https://docs.python.org/3/library/tk.html)
 
-# Python PyGame
+### Python PyGame
 [PyGame Documentation](https://www.pygame.org/wiki/tutorials)
