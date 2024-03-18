@@ -11,3 +11,4 @@ for x in range(160):
   t.left(59)
 # change the range value to make the spiral bigger or smaller
 # change the width + to make each new line bigger
+turtle.done()

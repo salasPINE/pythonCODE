@@ -7,4 +7,4 @@
 # before the dot is the folder or folders
 # import turtleCode.turtleSpiral
 
-import pcc3e_jorge.ch2.helloworld_zu
+import turtleCode.turtleSpiral
