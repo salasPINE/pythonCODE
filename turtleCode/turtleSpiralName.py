@@ -18,3 +18,5 @@ for x in range(100):
     t.pendown() # Write the user's name, bigger each time
     t.write(your_name, font = ("Arial", int( (x + 4) / 4), "bold") )
     t.left(92) # Turn left, just as in our other spirals
+
+turtle.done()

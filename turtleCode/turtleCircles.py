@@ -30,3 +30,5 @@ draw_circle(tommy, "orange", 100, -100, -100)
 draw_circle(tommy, "blue", 100, 0, 0)
 draw_circle(tommy, "green", 100, 0, -100)
 draw_circle(tommy, "red", 100, 0, -200)
+
+turtle.done()

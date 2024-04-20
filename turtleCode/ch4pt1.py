@@ -19,3 +19,5 @@ t.left(90)
 # t.reset()
 # Clears the canvas and leaves turtle at its last position
 # t.clear()
+
+turtle.done()
